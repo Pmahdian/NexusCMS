@@ -1,4 +1,3 @@
-
 # Software Requirements Specification - NexusCMS
 **Version 2.0 | Enterprise Content Management System**
 
