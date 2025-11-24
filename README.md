@@ -1,6 +1,5 @@
 # Software Requirements Specification - NexusCMS
 **Version 2.0 | Enterprise Content Management System**
-
 ## 📋 Table of Contents
 1. [Introduction](#1-introduction)
 2. [System Architecture](#2-system-architecture)
